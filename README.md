@@ -1,6 +1,6 @@
 # 📅 Cosmic Calendar – Event Management & Tracking
 
-A sleek and modern **event management web application** that helps you track upcoming events, manage schedules, and view event details in a calendar format. It allows users to stay on top of their events, with easy-to-use features for adding, editing, and browsing events.
+A sleek and modern **event management web application** that helps you track upcoming events, manage schedules, and view event details in a calendar format. 
 
 🌐 **Live Demo:** https://cosmicclender-hdaa.vercel.app/
 
