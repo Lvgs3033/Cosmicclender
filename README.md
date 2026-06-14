@@ -1,4 +1,4 @@
-# 📅 Cosmic Calendar – Event Management & Tracking
+# Cosmic Calendar – Event Management & Tracking
 
 A sleek and modern **event management web application** that helps you track upcoming events, manage schedules, and view event details in a calendar format. 
 
